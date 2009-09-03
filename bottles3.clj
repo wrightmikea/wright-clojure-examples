@@ -17,7 +17,7 @@
   (do
     (println (nbobotw (Bottles n) ",\n")(nbob (Bottles n)))
     (println (txdpia "one")
-	     (nbobotw (if (= 0 m) "no more bottles" (Bottles m)) "!\n"))
+	     (nbobotw (Bottles m) "!\n"))
     (verse m))))
 (defmethod verse [false true] [n] ; =1
   (do
