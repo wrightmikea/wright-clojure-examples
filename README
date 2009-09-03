@@ -5,4 +5,4 @@ clojure2.clj - repace macro with funcion, loop-recur with trampoline
 clojure3.clj - multimethod to handle the 0 case better; intentional overflow
                (what do you expect after too much beer)
                [now updated to format better, spell out numbers, etc.]
-               added sample output in bottle3.out
+               added sample output in bottles3.out [fix name/contents]

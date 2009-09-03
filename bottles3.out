@@ -1,0 +1,604 @@
+user> (load-file "bottles3.clj")
+#'user/sing
+user> (sing)
+Ninety-Nine bottles of beer on the wall,
+ Ninety-Nine bottles of beer!
+Take one down,
+ Pass it around,
+  Ninety-Eight bottles of beer on the wall!
+
+Ninety-Eight bottles of beer on the wall,
+ Ninety-Eight bottles of beer!
+Take one down,
+ Pass it around,
+  Ninety-Seven bottles of beer on the wall!
+
+Ninety-Seven bottles of beer on the wall,
+ Ninety-Seven bottles of beer!
+Take one down,
+ Pass it around,
+  Ninety-Six bottles of beer on the wall!
+
+Ninety-Six bottles of beer on the wall,
+ Ninety-Six bottles of beer!
+Take one down,
+ Pass it around,
+  Ninety-Five bottles of beer on the wall!
+
+Ninety-Five bottles of beer on the wall,
+ Ninety-Five bottles of beer!
+Take one down,
+ Pass it around,
+  Ninety-Four bottles of beer on the wall!
+
+Ninety-Four bottles of beer on the wall,
+ Ninety-Four bottles of beer!
+Take one down,
+ Pass it around,
+  Ninety-Three bottles of beer on the wall!
+
+Ninety-Three bottles of beer on the wall,
+ Ninety-Three bottles of beer!
+Take one down,
+ Pass it around,
+  Ninety-Two bottles of beer on the wall!
+
+Ninety-Two bottles of beer on the wall,
+ Ninety-Two bottles of beer!
+Take one down,
+ Pass it around,
+  Ninety-One bottles of beer on the wall!
+
+Ninety-One bottles of beer on the wall,
+ Ninety-One bottles of beer!
+Take one down,
+ Pass it around,
+  Ninety bottles of beer on the wall!
+
+Ninety bottles of beer on the wall,
+ Ninety bottles of beer!
+Take one down,
+ Pass it around,
+  Eighty-Nine bottles of beer on the wall!
+
+Eighty-Nine bottles of beer on the wall,
+ Eighty-Nine bottles of beer!
+Take one down,
+ Pass it around,
+  Eighty-Eight bottles of beer on the wall!
+
+Eighty-Eight bottles of beer on the wall,
+ Eighty-Eight bottles of beer!
+Take one down,
+ Pass it around,
+  Eighty-Seven bottles of beer on the wall!
+
+Eighty-Seven bottles of beer on the wall,
+ Eighty-Seven bottles of beer!
+Take one down,
+ Pass it around,
+  Eighty-Six bottles of beer on the wall!
+
+Eighty-Six bottles of beer on the wall,
+ Eighty-Six bottles of beer!
+Take one down,
+ Pass it around,
+  Eighty-Five bottles of beer on the wall!
+
+Eighty-Five bottles of beer on the wall,
+ Eighty-Five bottles of beer!
+Take one down,
+ Pass it around,
+  Eighty-Four bottles of beer on the wall!
+
+Eighty-Four bottles of beer on the wall,
+ Eighty-Four bottles of beer!
+Take one down,
+ Pass it around,
+  Eighty-Three bottles of beer on the wall!
+
+Eighty-Three bottles of beer on the wall,
+ Eighty-Three bottles of beer!
+Take one down,
+ Pass it around,
+  Eighty-Two bottles of beer on the wall!
+
+Eighty-Two bottles of beer on the wall,
+ Eighty-Two bottles of beer!
+Take one down,
+ Pass it around,
+  Eighty-One bottles of beer on the wall!
+
+Eighty-One bottles of beer on the wall,
+ Eighty-One bottles of beer!
+Take one down,
+ Pass it around,
+  Eighty bottles of beer on the wall!
+
+Eighty bottles of beer on the wall,
+ Eighty bottles of beer!
+Take one down,
+ Pass it around,
+  Seventy-Nine bottles of beer on the wall!
+
+Seventy-Nine bottles of beer on the wall,
+ Seventy-Nine bottles of beer!
+Take one down,
+ Pass it around,
+  Seventy-Eight bottles of beer on the wall!
+
+Seventy-Eight bottles of beer on the wall,
+ Seventy-Eight bottles of beer!
+Take one down,
+ Pass it around,
+  Seventy-Seven bottles of beer on the wall!
+
+Seventy-Seven bottles of beer on the wall,
+ Seventy-Seven bottles of beer!
+Take one down,
+ Pass it around,
+  Seventy-Six bottles of beer on the wall!
+
+Seventy-Six bottles of beer on the wall,
+ Seventy-Six bottles of beer!
+Take one down,
+ Pass it around,
+  Seventy-Five bottles of beer on the wall!
+
+Seventy-Five bottles of beer on the wall,
+ Seventy-Five bottles of beer!
+Take one down,
+ Pass it around,
+  Seventy-Four bottles of beer on the wall!
+
+Seventy-Four bottles of beer on the wall,
+ Seventy-Four bottles of beer!
+Take one down,
+ Pass it around,
+  Seventy-Three bottles of beer on the wall!
+
+Seventy-Three bottles of beer on the wall,
+ Seventy-Three bottles of beer!
+Take one down,
+ Pass it around,
+  Seventy-Two bottles of beer on the wall!
+
+Seventy-Two bottles of beer on the wall,
+ Seventy-Two bottles of beer!
+Take one down,
+ Pass it around,
+  Seventy-One bottles of beer on the wall!
+
+Seventy-One bottles of beer on the wall,
+ Seventy-One bottles of beer!
+Take one down,
+ Pass it around,
+  Seventy bottles of beer on the wall!
+
+Seventy bottles of beer on the wall,
+ Seventy bottles of beer!
+Take one down,
+ Pass it around,
+  Sixty-Nine bottles of beer on the wall!
+
+Sixty-Nine bottles of beer on the wall,
+ Sixty-Nine bottles of beer!
+Take one down,
+ Pass it around,
+  Sixty-Eight bottles of beer on the wall!
+
+Sixty-Eight bottles of beer on the wall,
+ Sixty-Eight bottles of beer!
+Take one down,
+ Pass it around,
+  Sixty-Seven bottles of beer on the wall!
+
+Sixty-Seven bottles of beer on the wall,
+ Sixty-Seven bottles of beer!
+Take one down,
+ Pass it around,
+  Sixty-Six bottles of beer on the wall!
+
+Sixty-Six bottles of beer on the wall,
+ Sixty-Six bottles of beer!
+Take one down,
+ Pass it around,
+  Sixty-Five bottles of beer on the wall!
+
+Sixty-Five bottles of beer on the wall,
+ Sixty-Five bottles of beer!
+Take one down,
+ Pass it around,
+  Sixty-Four bottles of beer on the wall!
+
+Sixty-Four bottles of beer on the wall,
+ Sixty-Four bottles of beer!
+Take one down,
+ Pass it around,
+  Sixty-Three bottles of beer on the wall!
+
+Sixty-Three bottles of beer on the wall,
+ Sixty-Three bottles of beer!
+Take one down,
+ Pass it around,
+  Sixty-Two bottles of beer on the wall!
+
+Sixty-Two bottles of beer on the wall,
+ Sixty-Two bottles of beer!
+Take one down,
+ Pass it around,
+  Sixty-One bottles of beer on the wall!
+
+Sixty-One bottles of beer on the wall,
+ Sixty-One bottles of beer!
+Take one down,
+ Pass it around,
+  Sixty bottles of beer on the wall!
+
+Sixty bottles of beer on the wall,
+ Sixty bottles of beer!
+Take one down,
+ Pass it around,
+  Fifty-Nine bottles of beer on the wall!
+
+Fifty-Nine bottles of beer on the wall,
+ Fifty-Nine bottles of beer!
+Take one down,
+ Pass it around,
+  Fifty-Eight bottles of beer on the wall!
+
+Fifty-Eight bottles of beer on the wall,
+ Fifty-Eight bottles of beer!
+Take one down,
+ Pass it around,
+  Fifty-Seven bottles of beer on the wall!
+
+Fifty-Seven bottles of beer on the wall,
+ Fifty-Seven bottles of beer!
+Take one down,
+ Pass it around,
+  Fifty-Six bottles of beer on the wall!
+
+Fifty-Six bottles of beer on the wall,
+ Fifty-Six bottles of beer!
+Take one down,
+ Pass it around,
+  Fifty-Five bottles of beer on the wall!
+
+Fifty-Five bottles of beer on the wall,
+ Fifty-Five bottles of beer!
+Take one down,
+ Pass it around,
+  Fifty-Four bottles of beer on the wall!
+
+Fifty-Four bottles of beer on the wall,
+ Fifty-Four bottles of beer!
+Take one down,
+ Pass it around,
+  Fifty-Three bottles of beer on the wall!
+
+Fifty-Three bottles of beer on the wall,
+ Fifty-Three bottles of beer!
+Take one down,
+ Pass it around,
+  Fifty-Two bottles of beer on the wall!
+
+Fifty-Two bottles of beer on the wall,
+ Fifty-Two bottles of beer!
+Take one down,
+ Pass it around,
+  Fifty-One bottles of beer on the wall!
+
+Fifty-One bottles of beer on the wall,
+ Fifty-One bottles of beer!
+Take one down,
+ Pass it around,
+  Fifty bottles of beer on the wall!
+
+Fifty bottles of beer on the wall,
+ Fifty bottles of beer!
+Take one down,
+ Pass it around,
+  Fourty-Nine bottles of beer on the wall!
+
+Fourty-Nine bottles of beer on the wall,
+ Fourty-Nine bottles of beer!
+Take one down,
+ Pass it around,
+  Fourty-Eight bottles of beer on the wall!
+
+Fourty-Eight bottles of beer on the wall,
+ Fourty-Eight bottles of beer!
+Take one down,
+ Pass it around,
+  Fourty-Seven bottles of beer on the wall!
+
+Fourty-Seven bottles of beer on the wall,
+ Fourty-Seven bottles of beer!
+Take one down,
+ Pass it around,
+  Fourty-Six bottles of beer on the wall!
+
+Fourty-Six bottles of beer on the wall,
+ Fourty-Six bottles of beer!
+Take one down,
+ Pass it around,
+  Fourty-Five bottles of beer on the wall!
+
+Fourty-Five bottles of beer on the wall,
+ Fourty-Five bottles of beer!
+Take one down,
+ Pass it around,
+  Fourty-Four bottles of beer on the wall!
+
+Fourty-Four bottles of beer on the wall,
+ Fourty-Four bottles of beer!
+Take one down,
+ Pass it around,
+  Fourty-Three bottles of beer on the wall!
+
+Fourty-Three bottles of beer on the wall,
+ Fourty-Three bottles of beer!
+Take one down,
+ Pass it around,
+  Fourty-Two bottles of beer on the wall!
+
+Fourty-Two bottles of beer on the wall,
+ Fourty-Two bottles of beer!
+Take one down,
+ Pass it around,
+  Fourty-One bottles of beer on the wall!
+
+Fourty-One bottles of beer on the wall,
+ Fourty-One bottles of beer!
+Take one down,
+ Pass it around,
+  Fourty bottles of beer on the wall!
+
+Fourty bottles of beer on the wall,
+ Fourty bottles of beer!
+Take one down,
+ Pass it around,
+  Thirty-Nine bottles of beer on the wall!
+
+Thirty-Nine bottles of beer on the wall,
+ Thirty-Nine bottles of beer!
+Take one down,
+ Pass it around,
+  Thirty-Eight bottles of beer on the wall!
+
+Thirty-Eight bottles of beer on the wall,
+ Thirty-Eight bottles of beer!
+Take one down,
+ Pass it around,
+  Thirty-Seven bottles of beer on the wall!
+
+Thirty-Seven bottles of beer on the wall,
+ Thirty-Seven bottles of beer!
+Take one down,
+ Pass it around,
+  Thirty-Six bottles of beer on the wall!
+
+Thirty-Six bottles of beer on the wall,
+ Thirty-Six bottles of beer!
+Take one down,
+ Pass it around,
+  Thirty-Five bottles of beer on the wall!
+
+Thirty-Five bottles of beer on the wall,
+ Thirty-Five bottles of beer!
+Take one down,
+ Pass it around,
+  Thirty-Four bottles of beer on the wall!
+
+Thirty-Four bottles of beer on the wall,
+ Thirty-Four bottles of beer!
+Take one down,
+ Pass it around,
+  Thirty-Three bottles of beer on the wall!
+
+Thirty-Three bottles of beer on the wall,
+ Thirty-Three bottles of beer!
+Take one down,
+ Pass it around,
+  Thirty-Two bottles of beer on the wall!
+
+Thirty-Two bottles of beer on the wall,
+ Thirty-Two bottles of beer!
+Take one down,
+ Pass it around,
+  Thirty-One bottles of beer on the wall!
+
+Thirty-One bottles of beer on the wall,
+ Thirty-One bottles of beer!
+Take one down,
+ Pass it around,
+  Thirty bottles of beer on the wall!
+
+Thirty bottles of beer on the wall,
+ Thirty bottles of beer!
+Take one down,
+ Pass it around,
+  Twenty-Nine bottles of beer on the wall!
+
+Twenty-Nine bottles of beer on the wall,
+ Twenty-Nine bottles of beer!
+Take one down,
+ Pass it around,
+  Twenty-Eight bottles of beer on the wall!
+
+Twenty-Eight bottles of beer on the wall,
+ Twenty-Eight bottles of beer!
+Take one down,
+ Pass it around,
+  Twenty-Seven bottles of beer on the wall!
+
+Twenty-Seven bottles of beer on the wall,
+ Twenty-Seven bottles of beer!
+Take one down,
+ Pass it around,
+  Twenty-Six bottles of beer on the wall!
+
+Twenty-Six bottles of beer on the wall,
+ Twenty-Six bottles of beer!
+Take one down,
+ Pass it around,
+  Twenty-Five bottles of beer on the wall!
+
+Twenty-Five bottles of beer on the wall,
+ Twenty-Five bottles of beer!
+Take one down,
+ Pass it around,
+  Twenty-Four bottles of beer on the wall!
+
+Twenty-Four bottles of beer on the wall,
+ Twenty-Four bottles of beer!
+Take one down,
+ Pass it around,
+  Twenty-Three bottles of beer on the wall!
+
+Twenty-Three bottles of beer on the wall,
+ Twenty-Three bottles of beer!
+Take one down,
+ Pass it around,
+  Twenty-Two bottles of beer on the wall!
+
+Twenty-Two bottles of beer on the wall,
+ Twenty-Two bottles of beer!
+Take one down,
+ Pass it around,
+  Twenty-One bottles of beer on the wall!
+
+Twenty-One bottles of beer on the wall,
+ Twenty-One bottles of beer!
+Take one down,
+ Pass it around,
+  Twenty bottles of beer on the wall!
+
+Twenty bottles of beer on the wall,
+ Twenty bottles of beer!
+Take one down,
+ Pass it around,
+  Nineteen bottles of beer on the wall!
+
+Nineteen bottles of beer on the wall,
+ Nineteen bottles of beer!
+Take one down,
+ Pass it around,
+  Eighteen bottles of beer on the wall!
+
+Eighteen bottles of beer on the wall,
+ Eighteen bottles of beer!
+Take one down,
+ Pass it around,
+  Seventeen bottles of beer on the wall!
+
+Seventeen bottles of beer on the wall,
+ Seventeen bottles of beer!
+Take one down,
+ Pass it around,
+  Sixteen bottles of beer on the wall!
+
+Sixteen bottles of beer on the wall,
+ Sixteen bottles of beer!
+Take one down,
+ Pass it around,
+  Fifteen bottles of beer on the wall!
+
+Fifteen bottles of beer on the wall,
+ Fifteen bottles of beer!
+Take one down,
+ Pass it around,
+  Fourteen bottles of beer on the wall!
+
+Fourteen bottles of beer on the wall,
+ Fourteen bottles of beer!
+Take one down,
+ Pass it around,
+  Thirteen bottles of beer on the wall!
+
+Thirteen bottles of beer on the wall,
+ Thirteen bottles of beer!
+Take one down,
+ Pass it around,
+  Twelve bottles of beer on the wall!
+
+Twelve bottles of beer on the wall,
+ Twelve bottles of beer!
+Take one down,
+ Pass it around,
+  Eleven bottles of beer on the wall!
+
+Eleven bottles of beer on the wall,
+ Eleven bottles of beer!
+Take one down,
+ Pass it around,
+  Ten bottles of beer on the wall!
+
+Ten bottles of beer on the wall,
+ Ten bottles of beer!
+Take one down,
+ Pass it around,
+  Nine bottles of beer on the wall!
+
+Nine bottles of beer on the wall,
+ Nine bottles of beer!
+Take one down,
+ Pass it around,
+  Eight bottles of beer on the wall!
+
+Eight bottles of beer on the wall,
+ Eight bottles of beer!
+Take one down,
+ Pass it around,
+  Seven bottles of beer on the wall!
+
+Seven bottles of beer on the wall,
+ Seven bottles of beer!
+Take one down,
+ Pass it around,
+  Six bottles of beer on the wall!
+
+Six bottles of beer on the wall,
+ Six bottles of beer!
+Take one down,
+ Pass it around,
+  Five bottles of beer on the wall!
+
+Five bottles of beer on the wall,
+ Five bottles of beer!
+Take one down,
+ Pass it around,
+  Four bottles of beer on the wall!
+
+Four bottles of beer on the wall,
+ Four bottles of beer!
+Take one down,
+ Pass it around,
+  Three bottles of beer on the wall!
+
+Three bottles of beer on the wall,
+ Three bottles of beer!
+Take one down,
+ Pass it around,
+  Two bottles of beer on the wall!
+
+Two bottles of beer on the wall,
+ Two bottles of beer!
+Take one down,
+ Pass it around,
+  One bottle of beer on the wall!
+
+One bottle of beer on the wall,
+ One bottle of beer!
+Take it down,
+ Pass it around,
+  No more bottles of beer on the wall.
+
+No more bottles of beer on the wall,
+ no more bottles of beer!
+Go to the store and buy some more,
+ Nintey-nine bottles of beer on the wall.
+
+nil
+user> 
