@@ -1,0 +1,7 @@
+some variations on the 99-bottles program
+
+clojure.clj - a simple macro and a loop-recur
+clojure2.clj - repace macro with funcion, loop-recur with trampoline
+clojure3.clj - multimethod to handle the 0 case better; intentional overflow
+               (what do you expect after too much beer)
+
