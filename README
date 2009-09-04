@@ -8,3 +8,7 @@ clojure3.clj - multimethod to handle the 0 case better; intentional overflow
                added sample output in bottles3.out [fix name/contents]
 	       remove dead code (check for 0 in >1 case; 
 	       (handled by recently added =1 method)
+	       [improvements from Bay Area Clojure User Group meeting,
+	 	simpler dispatch function, lowercase second half of string 
+		used to form compound numbers, eliminate unnecessary do's]
+
