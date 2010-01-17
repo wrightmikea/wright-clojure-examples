@@ -13,4 +13,5 @@ bottle3s.clj - multimethod to handle the 0 case better; intentional overflow
 		used to form compound numbers, eliminate unnecessary do's]
 bottles4.clj - functional approach using interleave and map
 	       [removed commented-out code from earlier draft]
+	       [simplified code by reusing one range]
 
