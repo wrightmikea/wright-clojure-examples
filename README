@@ -1,8 +1,8 @@
 some variations on the 99-bottles program
 
 bottles.clj - a simple macro and a loop-recur
-bottle2s.clj - repace macro with function, loop-recur with trampoline
-bottle3s.clj - multimethod to handle the 0 case better; intentional overflow
+bottles2.clj - replace macro with function, loop-recur with trampoline
+bottles3.clj - multimethod to handle the 0 case better; intentional overflow
                (what do you expect after too much beer)
                [now updated to format better, spell out numbers, etc.]
                added sample output in bottles3.out [fix name/contents]
