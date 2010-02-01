@@ -2,6 +2,8 @@ some variations on the 99-bottles program
 
 bottles.clj - a simple macro and a loop-recur
 bottles2.clj - replace macro with function, loop-recur with trampoline
+               (revised: use letfn to define the mutually recursive functions,
+	       make helper function private)
 bottles3.clj - multimethod to handle the 0 case better; intentional overflow
                (what do you expect after too much beer)
                [now updated to format better, spell out numbers, etc.]
